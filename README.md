@@ -18,9 +18,21 @@
 
 ![image](https://user-images.githubusercontent.com/129017040/235418343-beb6fb8d-9ec2-4d21-9d27-b9a586885fdb.png)
 
-*유저이름 
+*유저이름설정하기
 
-      git config --global user.neme "jungmin^C
+      git config --global user.neme "jungmin"
+      
+*유저 이메일 설정하기(반드시 github에 가입했던 이메일주소와 동일해야한다.)
+
+      git config --global user.neme "jungmin3636@naver.com"
+      
+* 내 정보 확인하기
+
+      git config --list 
+      
+      
+## ⬆️ 위의 연결은 해당 컴퓨터에서 한번만 실행하면 됨.
+---------------------------------------------------------
 
 
       
