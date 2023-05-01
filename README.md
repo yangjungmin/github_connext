@@ -20,11 +20,11 @@
 
 *유저이름설정하기
 
-      git config --global user.neme "jungmin"
+      git config --global user.name "jungmin"
       
 *유저 이메일 설정하기(반드시 github에 가입했던 이메일주소와 동일해야한다.)
 
-      git config --global user.neme "jungmin3636@naver.com"
+      git config --global user.email "jungmin3636@naver.com"
       
 * 내 정보 확인하기
 
@@ -47,6 +47,13 @@
    
    
           git remote add origin https://github.com/yangjungmin/css_flex.git   
+          
+   * 연결이 잘 되었는지 확인하기(사용안해도 됨)
+
+             git remote -v      
+             
+   * github에 올리기
+            git push origin master         
        
 
 
