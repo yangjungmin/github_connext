@@ -61,7 +61,7 @@
 
     git pull origin aster
     
-2. 다시 push 해야한다
+2.다시 push 해야한다
 
    git push origin master
        
