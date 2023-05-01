@@ -16,6 +16,13 @@
 
 ![image](https://user-images.githubusercontent.com/129017040/235417950-20f3d515-2abc-4341-80ea-299a9318a3ec.png)
 
+![image](https://user-images.githubusercontent.com/129017040/235418343-beb6fb8d-9ec2-4d21-9d27-b9a586885fdb.png)
+
+*유저이름 
+
+      git config --global user.neme "jungmin^C
+
+
       
      
       
