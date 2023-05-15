@@ -74,13 +74,15 @@ git clone 주소
 git clone https://github.com/yangjungmin/github_connext.git
 
 
-2. 브렌치(branch) 만들기
+2. 브랜치(branch) 만들기
+
+git checkout -b 브랜치이름
 
 PS D:\양정민\HTML CSS\사원> -> 하나카드 안으로 들어가야해서 cd hanacard 들어가기
 PS D:\양정민\HTML CSS\사원\hanacard> git add .
-PS D:\양정민\HTML CSS\사원\hanacard> git checkout -b yang
-PS D:\양정민\HTML CSS\사원\hanacard> git commit -m "hana"
-PS D:\양정민\HTML CSS\사원\hanacard> git push origin yang
+'git checkout -b 브랜치이름' ->>  PS D:\양정민\HTML CSS\사원\hanacard> git checkout -b yang
+'git push origin 하나카드' ->> PS D:\양정민\HTML CSS\사원\hanacard> git commit -m "hana"
+'git push origin 브랜치이름' ->> PS D:\양정민\HTML CSS\사원\hanacard> git push origin yang
 
 추가 변동사항 저장 후 깃허브에 hanacard들어가서 
 ![image](https://github.com/yangjungmin/github_connext/assets/129017040/edd54228-c485-4562-b6f8-a831d824d155)
