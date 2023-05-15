@@ -64,6 +64,29 @@
 2.다시 push 해야한다
 
    git push origin master
+   
+   
+# Github 협업하는 방법
+1. 소스코드 다운로드
+
+git clone 주소
+
+git clone https://github.com/yangjungmin/github_connext.git
+
+
+2. 브렌치(branch) 만들기
+
+PS D:\양정민\HTML CSS\사원> -> 하나카드 안으로 들어가야해서 cd hanacard 들어가기
+PS D:\양정민\HTML CSS\사원\hanacard> git add .
+PS D:\양정민\HTML CSS\사원\hanacard> git checkout -b yang
+PS D:\양정민\HTML CSS\사원\hanacard> git commit -m "hana"
+PS D:\양정민\HTML CSS\사원\hanacard> git push origin yang
+
+추가 변동사항 저장 후 깃허브에 hanacard들어가서 
+![image](https://github.com/yangjungmin/github_connext/assets/129017040/edd54228-c485-4562-b6f8-a831d824d155)
+올린파일 확인해주기
+
+
        
 
 
